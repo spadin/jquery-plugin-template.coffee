@@ -1,3 +1,5 @@
+# ###[Fork on Github](https://github.com/spadin/jquery-plugin-template.coffee)
+#
 # **Usage:**
 # 
 #     $("body").pluginName({
